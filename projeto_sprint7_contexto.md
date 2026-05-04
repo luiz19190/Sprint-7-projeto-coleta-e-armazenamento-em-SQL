@@ -206,8 +206,8 @@ projeto_sprint7/
 ## Status das Entregas
 | Passo | Descrição | Status |
 |---|---|---|
-| 1 | Web Scraping | ⬜ Pendente |
-| 2 | EDA SQL | ⬜ Pendente |
-| 3 | Hipótese SQL | ⬜ Pendente |
-| 4 | EDA Python | ⬜ Pendente |
-| 5 | Teste Hipótese Python | ⬜ Pendente |
+| 1 | Web Scraping | ✅ Entregue e Aprovado |
+| 2 | EDA SQL | ✅ Entregue e Aprovado |
+| 3 | Hipótese SQL | ✅ Entregue e Aprovado |
+| 4 | EDA Python | ✅ Entregue e Aprovado |
+| 5 | Teste Hipótese Python | ✅ Entregue e Aprovado |
