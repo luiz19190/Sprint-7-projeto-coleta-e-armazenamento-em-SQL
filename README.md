@@ -10,9 +10,9 @@ Projeto para a tripleten sobre a análise de dados da **Zuber**, uma startup de 
 ├── notebooks/
 │   ├── passo1_webscraping.ipynb       # Web scraping dos dados climáticos
 │   ├── passo4_eda_python.ipynb        # Análise exploratória em Python
-│   ├── passo5_teste_hipotese.ipynb    # Teste de hipótese em Python
+│   ├── passo5_teste_hipotese.ipynb    # Teste de hipótese em Python (versão inicial, Student)
 │   ├── queries_sprint7.sql            # Todas as queries SQL comentadas
-│   └── projeto_sprint7_completo.ipynb # Notebook final para submissão
+│   └── projeto_sprint7_completo.ipynb # Notebook final revisado (Teste de Welch)
 │
 └── data/
     ├── moved_project_sql_result_01.csv  # Empresas × corridas (15-16/nov)
